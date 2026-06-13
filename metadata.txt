@@ -1,0 +1,26 @@
+[general]
+name=hoverGeoPhoto
+description=Show photo when hovering a point feature with a valid image link
+about=This plugin displays a photo when the user hovers over a point feature that contains a valid image path or URL in a user-defined attribute. The popup is beautiful, non-obstructive, and adapts to the workspace.
+version=1.0.0
+author=Martin Denver G. Baldovi
+email=martin@baldovi.me
+
+# QGIS 4.0 minimum and maximum (Qt6)
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+
+# Plugin is stable
+experimental=False
+deprecated=False
+
+# Tags
+tags=hover,photo,point,display,preview,popup
+
+# Homepage & repository
+homepage=https://github.com/martinbaldovi/hoverGeoPhoto
+repository=https://github.com/martinbaldovi/hoverGeoPhoto
+changelog=Initial release for QGIS 4.0
+
+# Issue tracker
+tracker=https://github.com/martinbaldovi/hoverGeoPhoto/issues
